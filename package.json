@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-issue-route-get-during-build",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "19.0.0-beta-4508873393-20240430",
+    "react-dom": "19.0.0-beta-4508873393-20240430",
+    "next": "14.3.0-canary.49"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.3.0-canary.49"
+  }
+}
